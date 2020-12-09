@@ -69,7 +69,7 @@ export default function Game({zVal,setCurrentList,id}) {
        return [Math.floor(Math.random()*(500/SCALE)),Math.floor(Math.random()*(500/SCALE))];
     };
     const checkCollision=(piece,snk = snake)=>{
-        console.log(piece);
+        //console.log(piece);
         if(piece[0]*20>=500||piece[0]<0||piece[1]*20>=500||piece[1]<0){
             return true;
         }
