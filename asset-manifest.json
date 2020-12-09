@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-PlayGround/static/css/main.3bdea33e.chunk.css",
+    "main.js": "/react-PlayGround/static/js/main.76edc17b.chunk.js",
+    "main.js.map": "/react-PlayGround/static/js/main.76edc17b.chunk.js.map",
+    "runtime-main.js": "/react-PlayGround/static/js/runtime-main.0922d7d7.js",
+    "runtime-main.js.map": "/react-PlayGround/static/js/runtime-main.0922d7d7.js.map",
+    "static/js/2.785238ad.chunk.js": "/react-PlayGround/static/js/2.785238ad.chunk.js",
+    "static/js/2.785238ad.chunk.js.map": "/react-PlayGround/static/js/2.785238ad.chunk.js.map",
+    "static/js/3.3289ca18.chunk.js": "/react-PlayGround/static/js/3.3289ca18.chunk.js",
+    "static/js/3.3289ca18.chunk.js.map": "/react-PlayGround/static/js/3.3289ca18.chunk.js.map",
+    "index.html": "/react-PlayGround/index.html",
+    "static/css/main.3bdea33e.chunk.css.map": "/react-PlayGround/static/css/main.3bdea33e.chunk.css.map",
+    "static/js/2.785238ad.chunk.js.LICENSE.txt": "/react-PlayGround/static/js/2.785238ad.chunk.js.LICENSE.txt",
+    "static/media/skull.4ffad28e.svg": "/react-PlayGround/static/media/skull.4ffad28e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0922d7d7.js",
+    "static/js/2.785238ad.chunk.js",
+    "static/css/main.3bdea33e.chunk.css",
+    "static/js/main.76edc17b.chunk.js"
+  ]
+}
